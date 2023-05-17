@@ -1,0 +1,5 @@
+APP_NAME: "NikPay"
+APP_PORT: "33001"
+
+# Postgres
+DB_URI: "postgresql://postgres:1234@localhost:5432/wallet?sslmode=disable"
